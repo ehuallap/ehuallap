@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Erick Hualla
 - 👀 I’m interested in programming c++ but also Python and JAVA
 - 🌱 I’m currently learning Computer Science
-- 💞️ I’m looking to collaborate on games and some projects
+- 💞️ I’m looking to collaborate on games and web services projects
 - 📫 How to reach me ehualla@unsa.edu.pe
 
 <!---
